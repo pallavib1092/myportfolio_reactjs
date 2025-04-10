@@ -6,7 +6,7 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <Router>
+    <Router  basename=''>
         <div style={{ display: 'flex' }}>
           <Drawer />
           <div style={{ marginLeft: 200, padding: 20 }}>
