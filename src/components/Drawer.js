@@ -13,6 +13,7 @@ class Drawer extends Component {
             <li><Link to="/about">About</Link></li>
           </ul>
         </nav>
+        
       </div>
     );
   }
